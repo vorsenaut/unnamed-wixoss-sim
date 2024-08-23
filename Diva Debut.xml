@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="At =Ett=, the Opened Gate"/>
+        <card number="1" name="Umr =Down="/>
+        <card number="1" name="Tawil =Screech="/>
+        <card number="1" name="Umr =Draw="/>
+        <card number="1" name="Umr =Noll=, Key to Salvation"/>
+        <card number="1" name="At =Tre=, the Opened Gate"/>
+        <card number="1" name="Tawil =Noll=, Awakened One"/>
+        <card number="1" name="Tawil =Rainbow="/>
+        <card number="1" name="At =Noll=, the Opened Gate"/>
+        <card number="1" name="At =Två=, the Opened Gate"/>
+        <card number="1" name="Harmonic Call"/>
+    </zone>
+    <zone name="main">
+        <card number="4" name="Tobiel, Full Armed"/>
+        <card number="4" name="Assylen, Natural Crystal"/>
+        <card number="4" name="Polygenesis"/>
+        <card number="4" name="Sen no Rikyu, Jade General"/>
+        <card number="4" name="Servant #"/>
+        <card number="4" name="Zwei =Slow Loris="/>
+        <card number="4" name="Water Buffalo, Phantom Aquatic Beast"/>
+        <card number="4" name="Atalanta, Jade Angel"/>
+        <card number="4" name="Camelopar, Natural Planet"/>
+        <card number="4" name="Koalala, Phantom Terra Beast"/>
+    </zone>
+</cockatrice_deck>
